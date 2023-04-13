@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,900;1,800&family=Poppins:wght@300;400;500;600&family=Ubuntu:wght@300&display=swap');
+
 *,
 *::before
 *::after{
@@ -8,4 +10,8 @@
     text-decoration: none;
     list-style: none;
     border: none;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
 }
